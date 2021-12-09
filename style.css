@@ -1,0 +1,44 @@
+.container {
+    background-color: #eee;
+}
+
+h1,h2,h3.text {
+    text-align: center;
+}
+
+p.text{
+     
+     border: 1px solid #ddd;
+}
+
+.pic{
+    border-radius: 100%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 50%;
+    height: auto;
+}
+
+.img1{
+    border: 1px solid #ddd;
+}
+
+.text3{
+    text-align: center;
+}
+
+.text_container {
+    display: block;
+    line-height: 1.482566;
+    background-color: #ddd;
+    padding: 4px 4px 4px 4px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 20px;
+
+}
+
+.container{
+    border-radius: 6px;
+}
